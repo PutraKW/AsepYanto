@@ -2,7 +2,7 @@
   "name": "@i-scrapper/stumble-guys",
   "version": "1.0.0",
   "description": "Stumble-Guys - i-scrapper",
-  "main": "putra.js",
+  "main": "stumble.js",
   "scripts": {
     "test": "node .",
     "start": "node ."
