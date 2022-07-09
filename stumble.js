@@ -6,7 +6,7 @@ const request = require("@i-scrapper/plugins-request");
 const questions = [
     {
         type: "input",
-        name: "Authorization",
+        name: "authorization",
         message: color("Authorization keys:"),
         prefix: `${color("[", "redBright")}+${color("]", "redBright")}`,
         suffix: "~",
