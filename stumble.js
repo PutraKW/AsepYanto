@@ -65,7 +65,7 @@ const asciiText = figlet.textSync("SC Putra", {
     font: 'Graffiti',
     horizontalLayout: 'default',
     verticalLayout: 'default',
-    width: 75,
+    width: 65,
     whitespaceBreak: true
 });
 console.log(color(asciiText, "redBright"));
